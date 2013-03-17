@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_new_recipes"
+        android:title="@string/back_to_new_recipes">
+    </item>
+
+</menu>

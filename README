@@ -1,0 +1,11 @@
+Yumm is a Basic Android Recipe Generator App
+-Uses Punchfork API to retrieve random recipes
+-Uses Android SQLite to store favorites
+
+Built to itch a needed recipe tool. Feel free to take it on as your own. 
+Could use some optimizations and a better design.
+Good to use as a basis for json web requests and Android SQLite programming.
+
+Instructions:
+1. Change the API_URL in RecipeHandler to your registered Punchfork API key.
+2. Modify the DEFAULT_RECIPES_TO_LOAD in RecipeHandler to your desired number.

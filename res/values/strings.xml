@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yumm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_favorite_recipes">FavoriteRecipesActivity</string>
+    <string name="thumbnail_description">Recipe Thumbnail</string>
+	<string name="no_recipes">No Recipes to Show</string>
+	<string name="back_to_new_recipes">Back to New Recipes</string>
+	<string name="add_to_favorites">Add to Favorites</string>
+	<string name="get_new_recipes">Get New Recipes</string>
+	<string name="show_favorites">Show Favorites</string>
+</resources>
